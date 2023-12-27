@@ -7,7 +7,7 @@ I'm font-end developer a frontend web developer is a key player in the creation 
 
 Skills: HTML / CSS / BOOTSTARP5 / Tailwindcss /javascript
 
-- 🌱 I’m currently learning javascript 
+&#128515; javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web Developer 
 - 📫 How to reach me: whatsapp.....01932739227 
