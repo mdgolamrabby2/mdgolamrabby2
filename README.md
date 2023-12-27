@@ -4,8 +4,10 @@
 #### Font-end web developer
 
 I'm font-end developer a frontend web developer is a key player in the creation of visually appealing and user-friendly websites. This professional is primarily responsible for implementing the design and user interface elements of a website, ensuring that it delivers a seamless and engaging experience for visitors. Frontend development involves translating the graphic design and user experience (UX) design into actual code that users can interact with directly in their web browsers.
+ border: 1px solid red;
+ 
+💲 Skill s& Experinace
 
-Skills: HTML / CSS / BOOTSTARP5 / Tailwindcss /javascript
 
 ✅ HTML <br>
 ✅ CSS <br>
